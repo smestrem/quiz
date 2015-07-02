@@ -10,6 +10,15 @@ h2 span, section h3 {
     display: none;
 }
 
+section {
+    height: auto;
+    min-height: 500px;
+}
+
+h4 {
+    font-size: small;
+}
+
 body {
     font-size: xx-large;
 }
